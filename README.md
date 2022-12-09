@@ -29,3 +29,24 @@
 | [Bash CMD](https://github.com/HoseaCodes/Bash-Commands) | Repo to help w/Bash commands | Reference Tool | Completed  | 06/29/20 |
 | ... | 12/22/22 | target consumer | Proof of concept | Not Started |
 | ... | Proof Of Concept | url | Not Implemented  | Not Implemented |
+
+
+## Skills Obtained
+
+Expertise levels refer to your experience in a particular field. When describing your skill or experience level, you typically have one of the following levels of experience:
+- Novice: Novice learners primarily understand theoretical concepts. For example, novices are typically students or those in entry-level positions.
+- Intermediate: Intermediate learners have some experience applying theory to practice. For example, students completing internships are typically intermediate learners.
+- Advanced: These professionals have practical experience in their field and have the training required to succeed in the job they've trained for. For - example, members of upper management are advanced learners.
+- Expert: These professionals work intuitively and use the skills they developed in their field. For example, university professors are experts in their field
+
+| **Skill** | **Description** | **Notes** | Level |
+|----------|------------------|----------------|-----------|
+| Python | ... | ... | Intermediate  | 
+| HTML | ... | ... | Expert  | 
+| CSS | ... | ... | Advanced  | 
+| React | ... | ... | Advanced  | 
+| Django | ... | ... | Intermediate  | 
+| MongoDB | ... | ... | Intermediate  | 
+| MySQL | ... | ... | Intermediate  | 
+| BE/API | ... | ... | Advanced  | 
+
