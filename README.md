@@ -5,7 +5,7 @@
 | ... | Proof Of Concept | url | Not Implemented  | Not Implemented | url | url | url | Staging, Prod |target consumer | Ongoing | url |
 | ... | 12/22/22 | target consumer | Proof of concept | Not Started | n/a |
 | ... | Proof Of Concept | url | Not Implemented  | Not Implemented | url | url | url | Staging, Prod |target consumer | Ongoing | url |
-| [Dev Center](https://github.com/HoseaCodes/DevCenter) | DevCenter was created in order to help users have less clutter open on their tabs. Three General Assembly students Diego Burgos, Dominique Hosea, and Austin Ferrin wanted to create an App that would allow the users to authenticate with other applications and then be able to use some base functionality of those sites via a third party API. Please feel free to visit and join DevCenter | [UX/UI](https://github.com/HoseaCodes/DevCenter) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 09/22/20 |
+| [Dev Center](https://github.com/HoseaCodes/DevCenter) | DevCenter was created in order to help users have less clutter open on their tabs. | [UX/UI](https://github.com/HoseaCodes/DevCenter) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 09/22/20 |
 
 ## Learning Apps
 
