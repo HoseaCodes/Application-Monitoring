@@ -6,11 +6,40 @@
 | ... | 12/22/22 | target consumer | Proof of concept | Not Started | n/a |
 | ... | Proof Of Concept | url | Not Implemented  | Not Implemented | url | url | url | Staging, Prod |target consumer | Ongoing | url |
 | [Dev Center](https://github.com/HoseaCodes/DevCenter) | DevCenter was created in order to help users have less clutter open on their tabs. | [UX/UI](https://github.com/HoseaCodes/DevCenter) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 09/22/20 |
+| [Calorie Kitchen](https://github.com/HoseaCodes/Calorie-Kitchen) | A web app for gathering and displaying recipes, videos and food jokes. | [UX/UI](https://github.com/HoseaCodes/Calorie-Kitchen) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 11/22/21 |
+| [Blog](https://github.com/HoseaCodes/Blog) | The blog showcases my latest works, testomines, articles, about me section, and contact me section. It mainly focuses on my current and most recent accomplishments. | [UX/UI](https://github.com/HoseaCodes/Blog) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 11/22/21 |
+
+## Live Websites
+| **Application** | **Description** |
+|---------|------------|
+| [Ambitious Concepts Test](https://hoseacodes.github.io/AmbitiousConcepts/) | Test app for Ambitious Concpets |
+| [Ambitious Concepts Website](https://ambitiousconcept.com) | Website for Ambitious Concpets |
+| [Social Ring Website](https://www.social-ring.com) | Website for Social Ring |
+| [Live Blog Website](https://www.hoseacodes.com) | Website for Blog |
+| [Live Portfolio Website](https://www.dominiquehosea.com) | Website for Portfolio |
+
+## Live Apps
+| **Application** | **Description** |
+|---------|------------|
+| [Social Ring App](https://apps.apple.com/us/app/social-ring/id1551446005) | App for Social Ring |
+
+## Microservices/NPM Package
+| **Application** | **Description** | **Notes** | Status | Submitted |
+|---------|------------|---------|------------|---------|
+| [Woodsman](https://github.com/HoseaCodes/Woodsman) | Repo to help w/logging standardization | SF | Completed  | 05/29/22 |
+
+
+## Tools
+| **Application** | **Description** | **Notes** | Status | Submitted |
+|---------|------------|---------|------------|---------|
+| [Heorku Buildpack](https://github.com/HoseaCodes/heroku-google-application-credentials-buildpack) | Repo to help w/Heroku Buildpack  | SF | Completed  | 05/21/22 |
+
 
 ## Learning Apps
 
 | **Application** | **Description** | **Notes** | Status | Submitted |
 |----------|------------------|----------------|-----------|--------|
+| [Leetcode](https://github.com/HoseaCodes/Leetcode) | Repo to help w/Learning Data Structures and Algorithms Leetcode-site | n/a | Not Start  | n/a |
 | [JS DSA](https://github.com/HoseaCodes/javascript-datastructures-algorithms) | Repo to help w/Learning JavaScript Data Structures and Algorithms | n/a | Not Start  | n/a |
 | [Learning Git](https://github.com/HoseaCodes/Team-Git-Workflow-Practice) | Repo to help w/Learning git | GA | Completed | 08/21/20 |
 | [Space X](https://github.com/HoseaCodes/SpaceX-Explorer) | Repo to help w/Learning react. Also see [React Star wars](https://github.com/HoseaCodes/react-star-wars)| DainelJS | Completed  | 10/29/20 |
