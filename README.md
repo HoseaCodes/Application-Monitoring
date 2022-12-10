@@ -2,9 +2,6 @@
 
 | **Application** | **Description** | **UX/UI** | **CD - Pipeline** |  **CI - Pipeline** | **EOT**| **Log Management** | **Alerting** | **Envs** | **Swagger** | **Consumer** | **Notes** | Status | Submitted |
 |----------|------------------|----------------|-----------|--------|-----------| ---------- | --------- | --------- |------- |------|------- |------ |------ |
-| ... | Proof Of Concept | url | Not Implemented  | Not Implemented | url | url | url | Staging, Prod |target consumer | Ongoing | url |
-| ... | 12/22/22 | target consumer | Proof of concept | Not Started | n/a |
-| ... | Proof Of Concept | url | Not Implemented  | Not Implemented | url | url | url | Staging, Prod |target consumer | Ongoing | url |
 | [Dev Center](https://github.com/HoseaCodes/DevCenter) | DevCenter was created in order to help users have less clutter open on their tabs. | [UX/UI](https://github.com/HoseaCodes/DevCenter) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 09/22/20 |
 | [Calorie Kitchen](https://github.com/HoseaCodes/Calorie-Kitchen) | A web app for gathering and displaying recipes, videos and food jokes. | [UX/UI](https://github.com/HoseaCodes/Calorie-Kitchen) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 11/22/21 |
 | [Blog](https://github.com/HoseaCodes/Blog) | The blog showcases my latest works, testomines, articles, about me section, and contact me section. It mainly focuses on my current and most recent accomplishments. | [UX/UI](https://github.com/HoseaCodes/Blog) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 11/22/21 |
@@ -78,6 +75,9 @@ Expertise levels refer to your experience in a particular field. When describing
 | **Skill** | **Description** | **Notes** | Level |
 |----------|------------------|----------------|-----------|
 | Python | ... | ... | Intermediate  | 
+| JavaScript | ... | ... | Expert  | 
+| Java | ... | ... | Advanced  | 
+| Swift | ... | ... | Intermediate  | 
 | HTML | ... | ... | Expert  | 
 | CSS | ... | ... | Advanced  | 
 | React | ... | ... | Advanced  | 
