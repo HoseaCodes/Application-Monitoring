@@ -9,6 +9,9 @@
 | [Calorie Kitchen](https://github.com/HoseaCodes/Calorie-Kitchen) | A web app for gathering and displaying recipes, videos and food jokes. | [UX/UI](https://github.com/HoseaCodes/Calorie-Kitchen) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 11/22/21 |
 | [Blog](https://github.com/HoseaCodes/Blog) | The blog showcases my latest works, testomines, articles, about me section, and contact me section. It mainly focuses on my current and most recent accomplishments. | [UX/UI](https://github.com/HoseaCodes/Blog) | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 11/22/21 |
 | [User Management](https://github.com/HoseaCodes/UserManagement) | Managing users has never been this easy. | Not Implemented | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 11/19/21 |
+| [Social Ring App](https://github.com/HoseaCodes/Social-Ring-App) | ... | Not Implemented | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 01/21/21 |
+| [Expense Tracker](https://github.com/HoseaCodes/Expense-Tracker) |  ... | Not Implemented | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 10/14/21 |
+| [Career Connect](https://github.com/HoseaCodes/CareerConnect) | ... | Not Implemented | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 10/21/21 |
 
 ## Live Websites
 | **Application** | **Description** |
@@ -28,12 +31,14 @@
 | **Application** | **Description** | **Notes** | Status | Submitted |
 |---------|------------|---------|------------|---------|
 | [Woodsman](https://github.com/HoseaCodes/Woodsman) | Repo to help w/logging standardization | SF | Completed  | 05/29/22 |
-
+| [Forster](https://github.com/HoseaCodes/Forester) | Repo to help w/logging standardization | SF | Completed  | 09/17/21 |
+| [Redeem API](https://github.com/HoseaCodes/Redeem_API) | Repo to help w/pulling indeed jobs | SF | Completed  | 10/11/21 |
 
 ## Tools
 | **Application** | **Description** | **Notes** | Status | Submitted |
 |---------|------------|---------|------------|---------|
 | [Heorku Buildpack](https://github.com/HoseaCodes/heroku-google-application-credentials-buildpack) | Repo to help w/Heroku Buildpack  | SF | Completed  | 05/21/22 |
+| [Mock Server](https://github.com/HoseaCodes/MockServer) | Repo to help w/managing APIs  | SF | Completed  | 09/05/21 |
 
 
 ## Learning Apps
@@ -50,7 +55,7 @@
 | [Github Passport JS](https://github.com/HoseaCodes/Github-Passport)| Repo to help w/Learning Passport Js | GA | Completed  | 12/01/20 |
 | [Github API](https://github.com/HoseaCodes/React-Github)| Repo to help w/Learning Github API | GA | Completed  | 12/08/20 |
 | [Merge Immersive](https://github.com/HoseaCodes/merge-immersive) | Repo to help w/Learning prod level apps  | GA | Completed  | 12/08/20 |
-
+| [PokeDex](https://github.com/HoseaCodes/pokegallery) | Repo to help w/Learning javascript  | GA | Completed  | 06/21/21 |
 
 ## Documentation Apps
 
