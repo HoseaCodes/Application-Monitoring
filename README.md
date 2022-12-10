@@ -12,6 +12,7 @@
 | [Social Ring App](https://github.com/HoseaCodes/Social-Ring-App) | ... | Not Implemented | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 01/21/21 |
 | [Expense Tracker](https://github.com/HoseaCodes/Expense-Tracker) |  ... | Not Implemented | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 10/14/21 |
 | [Career Connect](https://github.com/HoseaCodes/CareerConnect) | ... | Not Implemented | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 10/21/21 |
+| [Sneaker API](https://github.com/HoseaCodes/Sneaker-Api) | ... | Not Implemented | Not Implemented  | Not Implemented | Not Implemented/No - url | Not Implemented/No - url | Not Implemented/No - url | Prod | Not Implemented/No - url | Internal Use | N/A | Ongoing | 04/01/21 |
 
 ## Live Websites
 | **Application** | **Description** |
